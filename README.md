@@ -84,17 +84,19 @@ Data Ready For Data Analysis
 
 ## 🖥️ Interface Preview
 
-### Main Capture Interface
-<!-- Replace with your actual screenshot -->
+### Main Interface
 ![Main Interface](screenshots/main_interface.png)
 
-### Case Management View
-<!-- Replace with your actual screenshot -->
-![Case Management](screenshots/case_management.png)
+### Run capture
+![Run capture](screenshots/run_interface.png)
 
-### Automated Report Output
-<!-- Replace with your actual screenshot -->
-![Report Output](screenshots/report_output.png)
+### Case Management View
+![Case Management](screenshots/case_management.png)
+### Resume interface
+![Resume interface](screenshots/resume_interface.png)
+
+### Report info capture
+![Report Output](screenshots/report_info.png)
 
 ---
 
