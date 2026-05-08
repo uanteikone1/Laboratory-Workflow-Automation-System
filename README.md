@@ -155,7 +155,7 @@ All screenshots have been anonymized or modified for confidentiality purposes.
 
 Focused on process automation, data workflows, operational optimization, and AI-assisted development using Python-based solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/diego-alonso-soto-galaviz-67ba9a196)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/diego-alonso-soto-galaviz-67ba9a196)
 
 ---
 
