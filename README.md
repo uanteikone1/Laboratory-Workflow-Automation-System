@@ -81,6 +81,9 @@ Data Ready For Data Analysis
 ```
 
 ---
+## 🛠️ System Architecture
+
+![Ecosystem Diagram](screenshots/ecosystem_diagram.svg)
 
 ## 🖥️ Interface Preview
 
