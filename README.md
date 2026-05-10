@@ -158,7 +158,7 @@ All screenshots have been anonymized or modified for confidentiality purposes.
 
 **Diego Soto**
 
-Focused on process automation, data workflows, operational optimization, and AI-assisted development using Python-based solutions.
+Data analyst focused on make efficient processes, trough automation and IA tools. Bussines intelligence and data analysis with Power BI, Excel and Power Query. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/diego-alonso-soto-galaviz-67ba9a196)
 
